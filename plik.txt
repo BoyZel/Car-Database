@@ -1,0 +1,8 @@
+Nissan Mondeo	12541	234	Francja
+Renault Megane	12455	4351	Francja
+BMW	91912	124	Niemcy
+Deawoo Tico	81811	234	Niemcy
+Lada	86141	19999	Nowa Gwinea
+Lanos	90191	1241	Nowa Gwinea
+Fiat Punto	12411	324	Polska
+Polonez	21451	1241	Polska
